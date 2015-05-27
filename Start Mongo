@@ -1,0 +1,9 @@
+
+
+1.install (based on ubuntu OS)
+follow the steps at http://docs.mongodb.org;
+
+2.Satrt ,stop or restart service
+sudo service mongod start
+sudo service mongod stop
+sudo service mongod restart
